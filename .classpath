@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/commons-lang3-3.6.jar"/>
 	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/hid4java-0.5.0.jar"/>
 	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/libusb4java-1.2.0-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/usb4java-javax-1.2.100.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

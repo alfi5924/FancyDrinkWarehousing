@@ -2,15 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/usb-api-1.0.2.jar"/>
-	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/usb4java-1.2.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/org/usb4java/windows-x86"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/commons-lang3-3.6.jar"/>
-	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/hid4java-0.5.0.jar"/>
-	<classpathentry kind="lib" path="D:/Projekte/FancyDrinkWarehousing/lib/libusb4java-1.2.0-windows-x86_64.jar"/>
 	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/usb4java-javax-1.2.100.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/hid4java-0.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/libusb4java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/libusb4java-1.2.0-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/org.usb4java-1.2.100.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/usb4java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projekte Java/FancyDrinkWarehousing/lib/usb-api-1.0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
